@@ -1,0 +1,9 @@
+{
+  "name": "my-claude-code-plugin",
+  "description": "開発効率を上げるためのプラグイン",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yamamoto Shuma"
+  }
+}
+
