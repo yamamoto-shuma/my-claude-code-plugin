@@ -1,5 +1,5 @@
 ---
-name: reviewpr
+name: revpr
 description: PRをレビューする
 argument-hint: [PR Number]
 allowed-tools: Bash(gh api:*)
